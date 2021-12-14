@@ -100,9 +100,11 @@ p {
   .hero p {
     font-size: 25px;
   }
-
   .project-description {
     padding: 0;
     text-align: center;
+  }
+  .btn-project {
+    margin-bottom: 40px;
   }
 }
